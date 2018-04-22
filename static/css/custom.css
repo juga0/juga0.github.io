@@ -1,0 +1,15 @@
+.navbar-default {
+    /*background-color: #ffffff;*/
+    /*border-color: #eeeeee;*/
+}
+#banner {
+  padding: 40px 0;
+  background-color: transparent;
+}
+#banner .copy {
+  background-color: transparent;
+  /*float: right;*/
+}
+.small {
+  font-size: 50%;
+}
